@@ -1,0 +1,127 @@
+[
+  {
+    "type": "directory",
+    "name": "Documents",
+    "contents": [
+      { "type": "file", "name": "resume.docx" },
+      { "type": "file", "name": "cover_letter.docx" },
+      { "type": "file", "name": "report.pdf" },
+      {
+        "type": "directory",
+        "name": "Taxes",
+        "contents": [
+          { "type": "file", "name": "tax_document_2021.pdf" },
+          { "type": "file", "name": "tax_document_2022.pdf" },
+          {
+            "type": "directory",
+            "name": "Old",
+            "contents": [
+              { "type": "file", "name": "tax_2019.pdf" },
+              { "type": "file", "name": "tax_2018.pdf" }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "Projects",
+        "contents": [
+          { "type": "file", "name": "project_overview.pptx" },
+          { "type": "file", "name": "budget.xlsx" },
+          {
+            "type": "directory",
+            "name": "Project_A",
+            "contents": [
+              { "type": "file", "name": "draft.docx" },
+              { "type": "file", "name": "final_review.docx" }
+            ]
+          },
+          {
+            "type": "directory",
+            "name": "Project_B",
+            "contents": [
+              { "type": "file", "name": "outline.docx" },
+              { "type": "file", "name": "presentation.pptx" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "Images",
+    "contents": [
+      { "type": "file", "name": "photo1.png" },
+      { "type": "file", "name": "photo2.jpg" },
+      { "type": "file", "name": "diagram.svg" },
+      {
+        "type": "directory",
+        "name": "Vacation",
+        "contents": [
+          { "type": "file", "name": "beach.png" },
+          { "type": "file", "name": "mountains.jpg" },
+          {
+            "type": "directory",
+            "name": "Summer_2022",
+            "contents": [
+              { "type": "file", "name": "image001.png" },
+              { "type": "file", "name": "image002.jpg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "Music",
+    "contents": [
+      { "type": "file", "name": "song1.mp3" },
+      { "type": "file", "name": "song2.mp3" },
+      { "type": "file", "name": "playlist.m3u" },
+      {
+        "type": "directory",
+        "name": "Classical",
+        "contents": [
+          { "type": "file", "name": "Beethoven.mp3" },
+          { "type": "file", "name": "Mozart.mp3" }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "Pop",
+        "contents": [
+          { "type": "file", "name": "pop_hit.mp3" },
+          { "type": "file", "name": "billie_jean.mp3" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "directory",
+    "name": "Videos",
+    "contents": [
+      { "type": "file", "name": "video1.mp4" },
+      { "type": "file", "name": "video2.avi" },
+      {
+        "type": "directory",
+        "name": "Documentaries",
+        "contents": [
+          { "type": "file", "name": "nature.mkv" },
+          { "type": "file", "name": "science.mp4" }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "Movies",
+        "contents": [
+          { "type": "file", "name": "Inception.mp4" },
+          { "type": "file", "name": "TheMatrix.avi" }
+        ]
+      }
+    ]
+  },
+  { "type": "file", "name": "notes.txt" },
+  { "type": "file", "name": "todo.md" }
+]
